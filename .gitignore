@@ -1,0 +1,39 @@
+# Unreal Engine .gitignore
+
+# Binaries
+Binaries/
+Intermediate/
+Saved/
+Plugins/Marketplace/
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Build artifacts
+*.o
+*.a
+*.so
+*.dylib
+
+# User-specific files
+*.VC.db
+DerivedDataCache/
+
+# Editor
+.vscode/
+*.code-workspace
