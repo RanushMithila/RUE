@@ -144,7 +144,11 @@
 			"Enabled": true
 		},
 		{
+<<<<<<< HEAD
 			"Name": "Water",
+=======
+			"Name": "USDImporter",
+>>>>>>> d2a81c6665e0714c656f85f13a689d8e1c214105
 			"Enabled": true
 		}
 	]
