@@ -145,6 +145,9 @@
 		},
 		{
 			"Name": "Water",
+			"Enabled": true
+		},
+		{
 			"Name": "USDImporter",
 			"Enabled": true
 		}
