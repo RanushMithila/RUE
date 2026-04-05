@@ -151,7 +151,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "USDImporter",
+			"Name": "PCG",
+			"Enabled": true
+		},
+		{
+			"Name": "ProceduralVegetationEditor",
 			"Enabled": true
 		}
 	]
